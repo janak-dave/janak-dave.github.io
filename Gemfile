@@ -21,7 +21,7 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'wdm', '>= 0.1.0' # Windows-specific dependency for Jekyll
+    gem 'wdm', '>= 0.1.0', platforms: [:mingw, :x64_mingw, :mswin] # Windows-specific dependency for Jekyll
     gem 'classifier-reborn'  # used for content categorization during the build
 end
 
