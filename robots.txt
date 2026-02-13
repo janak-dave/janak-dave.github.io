@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://JanakDave19.github.io/sitemap.xml
+Sitemap: https://janak-dave.github.io/sitemap.xml
