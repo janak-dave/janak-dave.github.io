@@ -2,10 +2,10 @@
 layout: page
 title: codes
 permalink: /codes/
-description: A collection of my coding projects and open-source contributions.
+description: A collection of my coding projects.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Academic, Self-Learning, Fun]
 horizontal: false
 ---
 
